@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a7TEtwbNuYw=",
+  "dgSpecHash": "c6SYYDsXjTU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\BlazorApi.csproj",
+  "projectFilePath": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\BlazorShop.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enzosalles\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\enzosalles\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.36\\microsoft.aspnetcore.authorization.6.0.36.nupkg.sha512",

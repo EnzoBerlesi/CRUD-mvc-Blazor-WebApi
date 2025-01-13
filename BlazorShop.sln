@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorShop.Web", "BlazorShop.Web\BlazorShop.Web.csproj", "{BE174B07-5EBA-428C-9D11-858631F56628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApi", "WebApplication1\BlazorApi.csproj", "{C8749756-7087-4C70-B1B7-F766AE2CAB40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorShop.Api", "WebApplication1\BlazorShop.Api.csproj", "{C8749756-7087-4C70-B1B7-F766AE2CAB40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorShop.Models", "BlazorShop.Models\BlazorShop.Models.csproj", "{81821C6B-E789-4916-A877-24381753F2F5}"
 EndProject

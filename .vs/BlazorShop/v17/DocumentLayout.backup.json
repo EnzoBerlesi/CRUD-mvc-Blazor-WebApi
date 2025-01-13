@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8749756-7087-4C70-B1B7-F766AE2CAB40}|WebApplication1\\BlazorShop.Api.csproj|c:\\users\\enzosalles\\desktop\\blazorshop\\webapplication1\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8749756-7087-4C70-B1B7-F766AE2CAB40}|WebApplication1\\BlazorShop.Api.csproj|solutionrelative:webapplication1\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8749756-7087-4C70-B1B7-F766AE2CAB40}|WebApplication1\\BlazorShop.Api.csproj|c:\\users\\enzosalles\\desktop\\blazorshop\\webapplication1\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8749756-7087-4C70-B1B7-F766AE2CAB40}|WebApplication1\\BlazorShop.Api.csproj|solutionrelative:webapplication1\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:27:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:09:12.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1162,6 +1162,16 @@
             "rid": "win"
           }
         }
+      },
+      "BlazorShop.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorShop.Models.dll": {}
+        }
       }
     }
   },
@@ -3239,10 +3249,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BlazorShop.Models/1.0.0": {
+      "type": "project",
+      "path": "../BlazorShop.Models/BlazorShop.Models.csproj",
+      "msbuildProject": "../BlazorShop.Models/BlazorShop.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BlazorShop.Models >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.36",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.36",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.36",
@@ -3257,9 +3273,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\BlazorApi.csproj",
-      "projectName": "BlazorApi",
-      "projectPath": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\BlazorApi.csproj",
+      "projectUniqueName": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\BlazorShop.Api.csproj",
+      "projectName": "BlazorShop.Api",
+      "projectPath": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\BlazorShop.Api.csproj",
       "packagesPath": "C:\\Users\\enzosalles\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
@@ -3281,7 +3297,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj": {
+              "projectPath": "C:\\Users\\enzosalles\\Desktop\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
